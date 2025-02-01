@@ -12,9 +12,6 @@ dist
 dist-ssr
 *.local
 
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
